@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.12.0.schema.json
 
 PackageIdentifier: Colitu.Colitu
-PackageVersion: 2.5.4
+PackageVersion: 2.5.5
 PackageLocale: ru-RU
 Publisher: Colitu
 PublisherUrl: https://colitu.com/ru
@@ -11,7 +11,7 @@ Author: Colitu
 PackageName: Colitu VPN
 PackageUrl: https://colitu.com/ru/download/windows
 License: GPL-3.0
-LicenseUrl: https://github.com/colitu/colitu-windows/blob/main/LICENSE
+LicenseUrl: https://github.com/colitu/windows/blob/main/LICENSE
 ShortDescription: VPN с открытым исходным кодом для сетей с ограничениями и нестабильным соединением.
 Description: |-
   Colitu VPN — клиент сервиса Colitu VPN для Windows с открытым исходным кодом.
@@ -30,7 +30,7 @@ Tags:
 - vless
 - vpn
 - xray
-ReleaseNotesUrl: https://github.com/colitu/colitu-windows/releases/tag/v2.5.4
+ReleaseNotesUrl: https://github.com/colitu/windows/releases/tag/v2.5.5
 Documentations:
 - DocumentLabel: Справочный центр
   DocumentUrl: https://docs.colitu.com/ru
