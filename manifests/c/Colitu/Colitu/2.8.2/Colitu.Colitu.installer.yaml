@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Colitu.Colitu
-PackageVersion: 2.8.1
+PackageVersion: 2.8.2
 Platform:
 - Windows.Desktop
 MinimumOSVersion: 10.0.0.0
@@ -17,7 +17,7 @@ ProductCode: '{B7B06C4E-1D5A-482F-A781-0F6C6C8A2B67}_is1'
 ReleaseDate: 2026-10-10
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/colitu/windows/releases/download/v2.8.1/ColituVPN-Setup-2.8.1-x64.exe
-  InstallerSha256: 697D2C30ADFCC4ACFA65CBD97DB532815A66793DFACD323789710D92ADE07D13
+  InstallerUrl: https://github.com/colitu/windows/releases/download/v2.8.2/ColituVPN-Setup-2.8.2-x64.exe
+  InstallerSha256: BEAF090BF838C069ECCDC14EFA765423B40012D8205D19DF85325408250E3B71
 ManifestType: installer
 ManifestVersion: 1.12.0
